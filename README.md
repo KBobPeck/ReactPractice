@@ -1,3 +1,6 @@
+#Build from Traversy Media React JS Crash Course
+###Followed the tutorial not my brainchild
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

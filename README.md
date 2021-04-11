@@ -1,5 +1,5 @@
-#Build from Traversy Media React JS Crash Course
-###Followed the tutorial not my brainchild
+# Build from Traversy Media React JS Crash Course
+### Followed the tutorial not my brainchild
 
 # Getting Started with Create React App
 
